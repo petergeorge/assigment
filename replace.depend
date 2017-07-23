@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1500776815 source:c:\users\fekry_pc\desktop\amit lecs\replace\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"txtedtf.h"
+
+1500776781 c:\users\fekry_pc\desktop\amit lecs\replace\txtedtf.h
+
+1500775434 source:c:\users\fekry_pc\desktop\amit lecs\replace\txtedtf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"txtedtf.h"
+
